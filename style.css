@@ -1,12 +1,3 @@
-a {
-	text-decoration: none;
-	font-weight: bold;
-}
-
-a:link {color: #984447; }
-a:visted { color: #984447; }
-a:hover { color: #65ACB8; }
-a:active { color: #204046; }
 
 body {
 	text-align: center;
@@ -67,3 +58,13 @@ h3 {
   border-radius: 5px;
   background-color: #468C98;
 }
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:link {color: #984447; }
+a:visted { color: #984447; }
+a:hover { color: #65ACB8; }
+a:active { color: #204046; }
