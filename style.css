@@ -3,8 +3,8 @@ a {
 	font-weight: bold;
 }
 
-a:link {color: #468C98; }
-a:visted { color: #468C98; }
+a:link {color: #984447; }
+a:visted { color: #984447; }
 a:hover { color: #65ACB8; }
 a:active { color: #204046; }
 
@@ -65,6 +65,5 @@ h3 {
   margin: 10px 30px;
   padding: 5px 20px;
   border-radius: 5px;
-  color: #E7E4D9;
   background-color: #468C98;
 }
